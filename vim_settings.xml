@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1519506650432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_channel.js" timestamp="1519507669484">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="46" column="7" />
-        <mark key="^" line="46" column="7" />
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_channel.js" timestamp="1519508565550">
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="18" />
+        <mark key="^" line="69" column="18" />
+        <mark key="." line="69" column="18" />
       </file>
       <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" timestamp="1518904876263">
         <mark key="[" line="9" column="0" />
@@ -25,8 +25,8 @@
         <mark key="^" line="130" column="40" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" timestamp="1519506622501">
-        <mark key="'" line="622" column="33" />
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" timestamp="1519507985762">
+        <mark key="'" line="173" column="79" />
         <mark key="[" line="450" column="0" />
         <mark key="]" line="450" column="0" />
         <mark key="^" line="449" column="25" />
@@ -73,8 +73,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="422" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
-      <jump line="423" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
       <jump line="432" column="20" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
       <jump line="433" column="33" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
       <jump line="10" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
@@ -173,22 +171,24 @@
       <jump line="63" column="0" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
       <jump line="83" column="5" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
       <jump line="110" column="46" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="87" column="9" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
+      <jump line="173" column="79" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>quit</text>
+        <text>once</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWYuY2hpbGQoJ2NoYW5uZWxzLycraWQpCiAgICAgICAgICAgIC5vbmNlKCd2YWx1ZScpCiAgICAgICAgICAgIC50aGVuKHZhbHVlID0+IHtyZXNvbHZlKHZhbHVlKX0pCg==</text>
+        <text encoding="base64">ICAgICAgIHJlZi5jaGlsZCgndXNlcnMvJyt1c2VyaWQrJy9jaGFubmVscy8nK2NoYW5uZWxpZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHJlZi5jaGlsZCgndXNlcnMvJyt1c2VyaWQrJy9jaGFubmVscy8nK2NoYW5uZWxpZCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -218,37 +218,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIHJlZi5jaGlsZCgnY2hhbm5lbHMvJytjaGFubmVsaWQrJy9tZW1iZXJzLycrdXNlcmlkKS5vbmNlKCJ2YWx1ZSIpLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>resource._misc.settings.SERVER_ADDRESS+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWYuY2hpbGQoJ3VzZXJzLycrdXNlcmlkKycvY2hhbm5lbHMvJytjaGFubmVsaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWYuY2hpbGQoJ2NoYW5uZWxzLycrY2hhbm5lbGlkKycvbWVtYmVycy8nK3VzZXJpZCkub25jZSgidmFsdWUiKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgoKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
       </register>
     </registers>
     <search>
-      <last-search>quit</last-search>
+      <last-search>once</last-search>
       <last-offset />
-      <last-pattern>quit</last-pattern>
+      <last-pattern>once</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -265,6 +265,7 @@
         <entry>finis</entry>
         <entry>=</entry>
         <entry>quit</entry>
+        <entry>once</entry>
       </history-search>
       <history-cmd />
       <history-expr />
