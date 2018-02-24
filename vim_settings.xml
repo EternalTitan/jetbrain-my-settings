@@ -1,0 +1,281 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" timestamp="1518904411255">
+        <mark key="'" line="583" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" timestamp="1518919012272">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" timestamp="1518918980305">
+        <mark key="'" line="83" column="5" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="107" column="2" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="76" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" timestamp="1518904876263">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="10" column="53" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/message.js" timestamp="1518904598047">
+        <mark key="'" line="32" column="30" />
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="60" />
+        <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/database.js" timestamp="1518904524453">
+        <mark key="'" line="12" column="41" />
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/setting.js" timestamp="1518903919309">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/test.js" timestamp="1518902303675">
+        <mark key="[" line="64" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" timestamp="1518918408497">
+        <mark key="'" line="143" column="46" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="130" column="40" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" timestamp="1518916520888">
+        <mark key="'" line="62" column="33" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="422" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
+      <jump line="423" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
+      <jump line="432" column="20" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
+      <jump line="433" column="33" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
+      <jump line="10" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="20" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="21" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="30" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="31" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="40" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="41" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="50" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="51" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="61" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="70" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="71" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="14" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="15" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="24" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="25" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="34" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="35" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="44" column="24" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="45" column="33" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="54" column="24" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="55" column="33" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="64" column="24" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="65" column="33" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/chatroom.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/database.js" />
+      <jump line="12" column="41" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/database.js" />
+      <jump line="32" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="33" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="42" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="43" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="52" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="53" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="66" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="67" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="89" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="90" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="138" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="139" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="12" column="60" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="13" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="12" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="20" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="21" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="28" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="29" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="40" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="41" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="53" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="54" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="62" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="63" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="72" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="73" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="82" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="83" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="92" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="93" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="12" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="20" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="21" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="30" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="31" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="40" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="41" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="50" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="51" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="60" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="61" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="70" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="71" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/message.js" />
+      <jump line="12" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/message.js" />
+      <jump line="21" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/message.js" />
+      <jump line="22" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/message.js" />
+      <jump line="31" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/message.js" />
+      <jump line="32" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/message.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/misc.js" />
+      <jump line="12" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/misc.js" />
+      <jump line="21" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/misc.js" />
+      <jump line="22" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/misc.js" />
+      <jump line="31" column="21" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/misc.js" />
+      <jump line="32" column="30" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/misc.js" />
+      <jump line="11" column="13" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="33" column="13" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="44" column="13" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="55" column="13" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="66" column="13" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="77" column="13" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="60" column="17" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="59" column="4" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="83" column="5" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/channel.js" />
+      <jump line="110" column="46" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/group.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gLy8K</text>
+      </register>
+      <register name="-" type="4">
+        <text>strftime(&quot;%Y%m%d%H%M%S&quot;, gmtime()),</text>
+      </register>
+      <register name="/" type="4">
+        <text>quit</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8Kcm91dGVyLnBvc3QoJy9jYW5jZWxNYXRjaGEnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5yZWRpcmVjdCgzMDcscmVzb3VyY2UuX21pc2Muc2V0dGluZ3MuU0VSVkVSX0FERFJFU1MrJ2NoYW5uZWwvY2FuY2VsTWF0Y2hhJyk7CiAgICBsZXQgcmVxdWVzdERhdGEgPSByZXEuYm9keTsKICAgIGxldCB1c2VyaWQgPSByZXF1ZXN0RGF0YS51c2VySWQ7CiAgICBsZXQgY2hhbm5lbGlkID0gcmVxdWVzdERhdGEuY2hhbm5lbElkOwoKICAgIHJlc291cmNlLl9tYXRjaGEuY2FuY2VsX21hdGNoYSh1c2VyaWQsY2hhbm5lbGlkKQogICAgICAgIC50aGVuKCgpPT57CiAgICAgICAgICAgIHJlcy5lbmQoKQogICAgICAgIH0pCn0pOwoKCi8vCnJvdXRlci5wb3N0KCcvZW50ZXJNYXRjaGEnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5yZWRpcmVjdCgzMDcscmVzb3VyY2UuX21pc2Muc2V0dGluZ3MuU0VSVkVSX0FERFJFU1MrJ2NoYW5uZWwvZW50ZXJNYXRjaGEnKTsKICAgIGxldCByZXF1ZXN0RGF0YSA9IHJlcS5ib2R5OwogICAgbGV0IHVzZXJpZCA9IHJlcXVlc3REYXRhLnVzZXJJZDsKICAgIGxldCBjaGFubmVsaWQgPSByZXF1ZXN0RGF0YS5jaGFubmVsSWQ7CgogICAgcmVzb3VyY2UuX21hdGNoYS5lbnRlcl9tYXRjaGEoY2hhbm5lbGlkLHVzZXJpZCkKICAgICAgICAudGhlbigoKT0+ewogICAgICAgICAgICByZXMuZW5kKCkKICAgICAgICB9KQoKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9maW5pc2hNYXRjaGEnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5yZWRpcmVjdCgzMDcscmVzb3VyY2UuX21pc2Muc2V0dGluZ3MuU0VSVkVSX0FERFJFU1MrJ2NoYW5uZWwvZmluaXNoTWF0Y2hhJyk7CiAgICBsZXQgcmVxdWVzdERhdGEgPSByZXEuYm9keTsKICAgIGxldCB1c2VyaWQgPSByZXF1ZXN0RGF0YS51c2VySWQ7CiAgICBsZXQgY2hhbm5lbGlkID0gcmVxdWVzdERhdGEuY2hhbm5lbElkOwogICAgbGV0IGV2ZW50TmFtZSA9IHJlcXVlc3REYXRhLmV2ZW50TmFtZTsKCiAgICBsZXQgcHJvbWlzZSA9IHJlc291cmNlLl9tYXRjaGEuZmluaXNoX21hdGNoYShjaGFubmVsaWQsdXNlcmlkLGV2ZW50TmFtZSk7CiAgICBwcm9taXNlLnRoZW4oZXZlbnRpZCA9PnsKICAgICAgICByZXMuanNvbih7ImV2ZW50SWQiOmV2ZW50aWR9KQogICAgfSkKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9xdWl0TWF0Y2hhJywgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICByZXMucmVkaXJlY3QoMzA3LHJlc291cmNlLl9taXNjLnNldHRpbmdzLlNFUlZFUl9BRERSRVNTKydjaGFubmVsL3F1aXRNYXRjaGEnKTsKICAgIGxldCByZXF1ZXN0RGF0YSA9IHJlcS5ib2R5OwogICAgbGV0IHVzZXJpZCA9IHJlcXVlc3REYXRhLnVzZXJJZDsKICAgIGxldCBjaGFubmVsaWQgPSByZXF1ZXN0RGF0YS5jaGFubmVsSWQ7CgogICAgbGV0IHByb21pc2UgPSByZXNvdXJjZS5fbWF0Y2hhLnF1aXRfbWF0Y2hhKGNoYW5uZWxpZCx1c2VyaWQpOwogICAgcHJvbWlzZS50aGVuKCgpPT57CiAgICAgICAgcmVzLmVuZCgpOwogICAgfSkKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9zZWxlY3RUaW1lJywgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICByZXMucmVkaXJlY3QoMzA3LHJlc291cmNlLl9taXNjLnNldHRpbmdzLlNFUlZFUl9BRERSRVNTKydjaGFubmVsL3NlbGVjdFRpbWUnKTsKICAgIGxldCByZXF1ZXN0RGF0YSA9IHJlcS5ib2R5OwogICAgbGV0IHVzZXJpZCA9IHJlcXVlc3REYXRhLnVzZXJJZDsKICAgIGxldCBjaGFubmVsaWQgPSByZXF1ZXN0RGF0YS5jaGFubmVsSWQ7CiAgICBsZXQgZHVyYXRpb24gPSByZXF1ZXN0RGF0YS5kdXJhdGlvbjsKICAgIGxldCBmcm9tVGltZSA9IHJlcXVlc3REYXRhLmZyb21UaW1lOwogICAgbGV0IGRhdGUgPSByZXF1ZXN0RGF0YS5kYXRlOwoKICAgIGxldCBwcm9taXNlID0gcmVzb3VyY2UuX21hdGNoYS5zZWxlY3RfdGltZXNsb3QoY2hhbm5lbGlkLGRhdGUsZnJvbVRpbWUsZHVyYXRpb24pOwogICAgcHJvbWlzZS50aGVuKCgpPT57CiAgICAgICAgcmVzLmVuZCgpOwogICAgfSkKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9zdGFydE1hdGNoYScsIGZ1bmN0aW9uIChyZXEsIHJlcywgbmV4dCkgewogICAgcmVzLnJlZGlyZWN0KDMwNyxyZXNvdXJjZS5fbWlzYy5zZXR0aW5ncy5TRVJWRVJfQUREUkVTUysnY2hhbm5lbC9zdGFydE1hdGNoYScpOwogICAgbGV0IHJlcXVlc3REYXRhID0gcmVxLmJvZHk7CiAgICBsZXQgdXNlcmlkID0gcmVxdWVzdERhdGEudXNlcklkOwogICAgbGV0IGNoYW5uZWxpZCA9IHJlcXVlc3REYXRhLmNoYW5uZWxJZDsKCiAgICBsZXQgcHJvbWlzZSA9IHJlc291cmNlLl9tYXRjaGEuY3JlYXRlTWF0Y2hhKHVzZXJpZCxjaGFubmVsaWQpOwogICAgcHJvbWlzZS50aGVuKCgpPT57CiAgICAgICAgcmVzLmVuZCgpOwogICAgfSkKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9nZXRNYXRjaGEnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5yZWRpcmVjdCgzMDcscmVzb3VyY2UuX21pc2Muc2V0dGluZ3MuU0VSVkVSX0FERFJFU1MrJ2NoYW5uZWwvZ2V0TWF0Y2hhJyk7CiAgICBsZXQgcmVxdWVzdERhdGEgPSByZXEuYm9keTsKICAgIGxldCBjaGFubmVsaWQgPSByZXF1ZXN0RGF0YS5jaGFubmVsSWQ7CgogICAgbGV0IHByb21pc2UgPSByZXNvdXJjZS5fbWF0Y2hhLmdldF9tYXRjaGEoY2hhbm5lbGlkKTsKICAgIHByb21pc2UudGhlbih2YWx1ZT0+ewogICAgICAgIHJlcy5qc29uKHsibWF0Y2hhIjp2YWx1ZX0pOwogICAgfSkKfSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gLy8K</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gfSk7Cg==</text>
+      </register>
+      <register name="t" type="4">
+        <text>resource._misc.settings.SERVER_ADDRESS+</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgIHJlcy5qc29uKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgIGxldCByZXF1ZXN0RGF0YSA9IHJlcS5ib2R5Owo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gcm91dGVyLnBvc3QoJy8nLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>quit</last-search>
+      <last-offset />
+      <last-pattern>quit</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>let</entry>
+        <entry>router</entry>
+        <entry>.com</entry>
+        <entry>router.post</entry>
+        <entry>chaskd.com</entry>
+        <entry>skd.com</entry>
+        <entry>https</entry>
+        <entry>res.redir</entry>
+        <entry>finis</entry>
+        <entry>=</entry>
+        <entry>quit</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
