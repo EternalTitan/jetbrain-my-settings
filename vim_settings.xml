@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1519506650432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_channel.js" timestamp="1519508565550">
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="18" />
-        <mark key="^" line="69" column="18" />
-        <mark key="." line="69" column="18" />
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_channel.js" timestamp="1519515652784">
+        <mark key="[" line="111" column="25" />
+        <mark key="]" line="112" column="29" />
+        <mark key="^" line="112" column="29" />
+        <mark key="." line="112" column="29" />
       </file>
       <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" timestamp="1518904876263">
         <mark key="[" line="9" column="0" />
