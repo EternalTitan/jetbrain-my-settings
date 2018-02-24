@@ -6,10 +6,11 @@
       <file name="/Dummy.txt" timestamp="1519506650432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_channel.js" timestamp="1519505574653">
-        <mark key="[" line="66" column="27" />
-        <mark key="]" line="66" column="27" />
-        <mark key="." line="66" column="27" />
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_channel.js" timestamp="1519507669484">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
       </file>
       <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/event.js" timestamp="1518904876263">
         <mark key="[" line="9" column="0" />
@@ -175,19 +176,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>quit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8Kcm91dGVyLnBvc3QoJy9jYW5jZWxNYXRjaGEnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5yZWRpcmVjdCgzMDcscmVzb3VyY2UuX21pc2Muc2V0dGluZ3MuU0VSVkVSX0FERFJFU1MrJ2NoYW5uZWwvY2FuY2VsTWF0Y2hhJyk7CiAgICBsZXQgcmVxdWVzdERhdGEgPSByZXEuYm9keTsKICAgIGxldCB1c2VyaWQgPSByZXF1ZXN0RGF0YS51c2VySWQ7CiAgICBsZXQgY2hhbm5lbGlkID0gcmVxdWVzdERhdGEuY2hhbm5lbElkOwoKICAgIHJlc291cmNlLl9tYXRjaGEuY2FuY2VsX21hdGNoYSh1c2VyaWQsY2hhbm5lbGlkKQogICAgICAgIC50aGVuKCgpPT57CiAgICAgICAgICAgIHJlcy5lbmQoKQogICAgICAgIH0pCn0pOwoKCi8vCnJvdXRlci5wb3N0KCcvZW50ZXJNYXRjaGEnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5yZWRpcmVjdCgzMDcscmVzb3VyY2UuX21pc2Muc2V0dGluZ3MuU0VSVkVSX0FERFJFU1MrJ2NoYW5uZWwvZW50ZXJNYXRjaGEnKTsKICAgIGxldCByZXF1ZXN0RGF0YSA9IHJlcS5ib2R5OwogICAgbGV0IHVzZXJpZCA9IHJlcXVlc3REYXRhLnVzZXJJZDsKICAgIGxldCBjaGFubmVsaWQgPSByZXF1ZXN0RGF0YS5jaGFubmVsSWQ7CgogICAgcmVzb3VyY2UuX21hdGNoYS5lbnRlcl9tYXRjaGEoY2hhbm5lbGlkLHVzZXJpZCkKICAgICAgICAudGhlbigoKT0+ewogICAgICAgICAgICByZXMuZW5kKCkKICAgICAgICB9KQoKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9maW5pc2hNYXRjaGEnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5yZWRpcmVjdCgzMDcscmVzb3VyY2UuX21pc2Muc2V0dGluZ3MuU0VSVkVSX0FERFJFU1MrJ2NoYW5uZWwvZmluaXNoTWF0Y2hhJyk7CiAgICBsZXQgcmVxdWVzdERhdGEgPSByZXEuYm9keTsKICAgIGxldCB1c2VyaWQgPSByZXF1ZXN0RGF0YS51c2VySWQ7CiAgICBsZXQgY2hhbm5lbGlkID0gcmVxdWVzdERhdGEuY2hhbm5lbElkOwogICAgbGV0IGV2ZW50TmFtZSA9IHJlcXVlc3REYXRhLmV2ZW50TmFtZTsKCiAgICBsZXQgcHJvbWlzZSA9IHJlc291cmNlLl9tYXRjaGEuZmluaXNoX21hdGNoYShjaGFubmVsaWQsdXNlcmlkLGV2ZW50TmFtZSk7CiAgICBwcm9taXNlLnRoZW4oZXZlbnRpZCA9PnsKICAgICAgICByZXMuanNvbih7ImV2ZW50SWQiOmV2ZW50aWR9KQogICAgfSkKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9xdWl0TWF0Y2hhJywgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICByZXMucmVkaXJlY3QoMzA3LHJlc291cmNlLl9taXNjLnNldHRpbmdzLlNFUlZFUl9BRERSRVNTKydjaGFubmVsL3F1aXRNYXRjaGEnKTsKICAgIGxldCByZXF1ZXN0RGF0YSA9IHJlcS5ib2R5OwogICAgbGV0IHVzZXJpZCA9IHJlcXVlc3REYXRhLnVzZXJJZDsKICAgIGxldCBjaGFubmVsaWQgPSByZXF1ZXN0RGF0YS5jaGFubmVsSWQ7CgogICAgbGV0IHByb21pc2UgPSByZXNvdXJjZS5fbWF0Y2hhLnF1aXRfbWF0Y2hhKGNoYW5uZWxpZCx1c2VyaWQpOwogICAgcHJvbWlzZS50aGVuKCgpPT57CiAgICAgICAgcmVzLmVuZCgpOwogICAgfSkKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9zZWxlY3RUaW1lJywgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICByZXMucmVkaXJlY3QoMzA3LHJlc291cmNlLl9taXNjLnNldHRpbmdzLlNFUlZFUl9BRERSRVNTKydjaGFubmVsL3NlbGVjdFRpbWUnKTsKICAgIGxldCByZXF1ZXN0RGF0YSA9IHJlcS5ib2R5OwogICAgbGV0IHVzZXJpZCA9IHJlcXVlc3REYXRhLnVzZXJJZDsKICAgIGxldCBjaGFubmVsaWQgPSByZXF1ZXN0RGF0YS5jaGFubmVsSWQ7CiAgICBsZXQgZHVyYXRpb24gPSByZXF1ZXN0RGF0YS5kdXJhdGlvbjsKICAgIGxldCBmcm9tVGltZSA9IHJlcXVlc3REYXRhLmZyb21UaW1lOwogICAgbGV0IGRhdGUgPSByZXF1ZXN0RGF0YS5kYXRlOwoKICAgIGxldCBwcm9taXNlID0gcmVzb3VyY2UuX21hdGNoYS5zZWxlY3RfdGltZXNsb3QoY2hhbm5lbGlkLGRhdGUsZnJvbVRpbWUsZHVyYXRpb24pOwogICAgcHJvbWlzZS50aGVuKCgpPT57CiAgICAgICAgcmVzLmVuZCgpOwogICAgfSkKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9zdGFydE1hdGNoYScsIGZ1bmN0aW9uIChyZXEsIHJlcywgbmV4dCkgewogICAgcmVzLnJlZGlyZWN0KDMwNyxyZXNvdXJjZS5fbWlzYy5zZXR0aW5ncy5TRVJWRVJfQUREUkVTUysnY2hhbm5lbC9zdGFydE1hdGNoYScpOwogICAgbGV0IHJlcXVlc3REYXRhID0gcmVxLmJvZHk7CiAgICBsZXQgdXNlcmlkID0gcmVxdWVzdERhdGEudXNlcklkOwogICAgbGV0IGNoYW5uZWxpZCA9IHJlcXVlc3REYXRhLmNoYW5uZWxJZDsKCiAgICBsZXQgcHJvbWlzZSA9IHJlc291cmNlLl9tYXRjaGEuY3JlYXRlTWF0Y2hhKHVzZXJpZCxjaGFubmVsaWQpOwogICAgcHJvbWlzZS50aGVuKCgpPT57CiAgICAgICAgcmVzLmVuZCgpOwogICAgfSkKfSk7CgoKLy8Kcm91dGVyLnBvc3QoJy9nZXRNYXRjaGEnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5yZWRpcmVjdCgzMDcscmVzb3VyY2UuX21pc2Muc2V0dGluZ3MuU0VSVkVSX0FERFJFU1MrJ2NoYW5uZWwvZ2V0TWF0Y2hhJyk7CiAgICBsZXQgcmVxdWVzdERhdGEgPSByZXEuYm9keTsKICAgIGxldCBjaGFubmVsaWQgPSByZXF1ZXN0RGF0YS5jaGFubmVsSWQ7CgogICAgbGV0IHByb21pc2UgPSByZXNvdXJjZS5fbWF0Y2hhLmdldF9tYXRjaGEoY2hhbm5lbGlkKTsKICAgIHByb21pc2UudGhlbih2YWx1ZT0+ewogICAgICAgIHJlcy5qc29uKHsibWF0Y2hhIjp2YWx1ZX0pOwogICAgfSkKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWYuY2hpbGQoJ2NoYW5uZWxzLycraWQpCiAgICAgICAgICAgIC5vbmNlKCd2YWx1ZScpCiAgICAgICAgICAgIC50aGVuKHZhbHVlID0+IHtyZXNvbHZlKHZhbHVlKX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -217,31 +218,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>resource._misc.settings.SERVER_ADDRESS+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlcy5qc29uKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
