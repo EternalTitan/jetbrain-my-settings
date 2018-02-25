@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1519527680558">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_channel.js" timestamp="1519515652784">
         <mark key="[" line="111" column="25" />
         <mark key="]" line="112" column="29" />
@@ -30,10 +33,10 @@
         <mark key="." line="450" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_event.js" timestamp="1519520317248">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="89" column="40" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="88" column="40" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" timestamp="1519505379566">
         <mark key="[" line="109" column="0" />
