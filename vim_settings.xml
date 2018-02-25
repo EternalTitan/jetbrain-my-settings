@@ -29,11 +29,11 @@
         <mark key="^" line="449" column="25" />
         <mark key="." line="450" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_event.js" timestamp="1519519365333">
-        <mark key="[" line="53" column="79" />
-        <mark key="]" line="54" column="41" />
-        <mark key="^" line="54" column="41" />
-        <mark key="." line="54" column="41" />
+      <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/resource/_event.js" timestamp="1519520317248">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="89" column="40" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/matcha.js" timestamp="1519505379566">
         <mark key="[" line="109" column="0" />
@@ -178,20 +178,20 @@
       <jump line="173" column="79" filename="$USER_HOME$/projects/Matcha-Firebase-API/functions/httpTriggered/routers/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>groupid</text>
       </register>
       <register name="/" type="4">
         <text>once</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIHJlZi5jaGlsZCgndXNlcnMvJyt1c2VyaWQrJy9jaGFubmVscy8nK2NoYW5uZWxpZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc291cmNlLl9ncm91cC5hZGRNZW1iZXJUb0dyb3VwKGdyb3VwaWQsdXNlcmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHJlZi5jaGlsZCgndXNlcnMvJyt1c2VyaWQrJy9jaGFubmVscy8nK2NoYW5uZWxpZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -221,31 +221,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHJlZi5jaGlsZCgnY2hhbm5lbHMvJytjaGFubmVsaWQrJy9tZW1iZXJzLycrdXNlcmlkKS5vbmNlKCJ2YWx1ZSIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgZ3JvdXBpZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWYuY2hpbGQoJ2V2ZW50cy8nK2V2ZW50aWQrJy9hdHRlbmRhbnRzLycrdXNlcmlkKS5zZXQodHJ1ZSkK</text>
       </register>
       <register name="t" type="4">
         <text>resource._misc.settings.SERVER_ADDRESS+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWYuY2hpbGQoJ3VzZXJzLycrdXNlcmlkKycvY2hhbm5lbHMvJytjaGFubmVsaWQpCg==</text>
+        <text encoding="base64">ICAgICAgIHJlZi5jaGlsZCgndXNlcnMvJyt1c2VyaWQrJy9jaGFubmVscy8nK2NoYW5uZWxpZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWYuY2hpbGQoJ2NoYW5uZWxzLycrY2hhbm5lbGlkKycvbWVtYmVycy8nK3VzZXJpZCkub25jZSgidmFsdWUiKQo=</text>
+        <text encoding="base64">ICAgICAgIHJlZi5jaGlsZCgnY2hhbm5lbHMvJytjaGFubmVsaWQrJy9tZW1iZXJzLycrdXNlcmlkKS5vbmNlKCJ2YWx1ZSIpLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgoKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICByZWYuY2hpbGQoJ3VzZXJzLycrdXNlcmlkKycvY2hhbm5lbHMvJytjaGFubmVsaWQpCg==</text>
       </register>
     </registers>
     <search>
@@ -292,6 +292,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
