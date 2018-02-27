@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/kevin-automation/index.html" timestamp="1519763610718">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1519685343403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,7 +18,6 @@
         <mark key="^" line="3254" column="0" />
         <mark key="." line="3254" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/http/client.py" timestamp="1519685388828" />
       <file name="$USER_HOME$/projects/kevin-automation/main.py" timestamp="1519684862432">
         <mark key="[" line="48" column="38" />
         <mark key="]" line="48" column="35" />
@@ -71,10 +75,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>114830</text>
+        <text>Title</text>
       </register>
       <register name="-" type="4">
-        <text>114830</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>screenshot</text>
